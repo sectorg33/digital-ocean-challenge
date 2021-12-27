@@ -1,5 +1,5 @@
 # digital-ocean-challenge
-Deploying a scalable SQL database cluster within digital ocean. 
+Create a scalable MySQL Database Cluster Hosting Multiple Sites 
 Requirements:-
 - Windows Or Linux Server Installed With Either Apache Or Ngnix
 - Digital Ocean Managed MySQL Database Cluster
